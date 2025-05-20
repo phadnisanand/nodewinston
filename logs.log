@@ -1,0 +1,2 @@
+{"level":"info","message":"hello, winston"}
+{"error":{},"level":"error","message":"something went wrong"}
